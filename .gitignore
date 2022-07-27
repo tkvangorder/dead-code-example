@@ -1,6 +1,6 @@
 bin/
 build/
-target/
+target/**
 .gradle/
 out/
 */src/main/gen/
