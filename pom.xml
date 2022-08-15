@@ -16,7 +16,7 @@
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <maven.compiler.showWarnings>true</maven.compiler.showWarnings>
         <java.version>11</java.version>
-        <rewrite.version>7.27.0-SNAPSHOT</rewrite.version>
+        <rewrite.version>7.27.3</rewrite.version>
     </properties>
 
     <build>
